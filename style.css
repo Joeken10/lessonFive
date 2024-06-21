@@ -10,6 +10,7 @@ main{
 .music-list{
   padding: 20px;
   margin-top: 20px;
+  margin-bottom: 80px;
 }
 header{
   width: 100%;
@@ -51,8 +52,9 @@ footer  p{
   margin-top: 100px;
 }
 li{
-  display: flex;
+  display: inline-block;
   gap: 20px;
+  padding: 50px;
   flex-direction: row;
   position:relative;
   top: 100px;
