@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://git-scm.com/
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/23216272/5027ef70-01f5-49c4-8237-a5ce3455e7d6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240610T133200Z&X-Amz-Expires=300&X-Amz-Signature=0a7c1395d93b742d5633ca73344d4594d734cdbe2f6ab99a68da9209e7f3fa09&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=23216272&response-content-disposition=attachment%3B%20filename%3DGit-2.45.2-64-bit.exe&response-content-type=application%2Foctet-stream

@@ -1,0 +1,21 @@
+attribute - explains or gives more about the element
+<divs> creates section on your page for ease of styling
+
+CSS - Cascading Style Sheet used to discribe html 
+Three types of CSS 
+Inline CSS - it's inline with the Html lines 
+Internal/embedded - embedded o the first line of html
+External
+
+selector's - Class and id (. and # ) element selector
+
+margin  moving elements outside
+padding moving elements inside or around
+bootsrap
+display - flex,inlineblock
+css positioning 
+- static - normal flow of document positition of element on webpage
+- relative - normal flow of document 
+- Fixed -disrupt the normal flow of the document
+Z - index 
+Sticky - starts moving then then the header stops
